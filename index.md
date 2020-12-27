@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Welcome to IslamOne Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Kashif-Rabbani/IslamOne/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy is intended to inform you regarding collection, use and disclosure of your personal information against our services we provide for all the apps uploaded in this account.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-### Markdown
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible unless otherwise defined in this Privacy Policy.
 
-```markdown
-Syntax highlighted code block
+### Information Collection and Use
 
-# Header 1
-## Header 2
-### Header 3
+This app does not request, use, capture, save or identify any of your personal information.
 
-- Bulleted
-- List
+The app does not use any third party services.
 
-1. Numbered
-2. List
+### Log Data
 
-**Bold** and _Italic_ and `Code` text
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-[Link](url) and ![Image](src)
-```
+### Cookies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
 
-### Jekyll Themes
+This app does not use any cookies.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kashif-Rabbani/IslamOne/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Service Providers
 
-### Support or Contact
+I may employ third-party companies and individuals due to the following reasons:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to your information related to the app. None of your personal information is used, asked, or required. 
+
+
+### Security
+
+I value your trust in using our app.
+
+### Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites may or may not be operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+### Children’s Privacy
+
+This app does not require any personal information, either children or adults. It does not require, or keep any personal information. 
+
+### Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+
+ch.kashirabbani@gmail.com
